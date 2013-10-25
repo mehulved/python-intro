@@ -701,3 +701,25 @@ a:focus {
     Thanks for reading. I hope you enjoyed it at least as much as I enjoyed writing it
     for you.
 */
+
+/* Custom Rules */
+
+.small {
+    font-size: 35px;
+}
+
+.smaller {
+    font-size: 20px;
+}
+
+#zen pre {
+    font-size: 20px;
+}
+
+#i-learn ul {
+    font-size: 25px;
+}
+
+ul {
+    list-style: url('../python_logo.png');
+}
